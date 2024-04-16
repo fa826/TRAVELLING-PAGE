@@ -1,3 +1,6 @@
+LINK TO THE DEPLOYED PAGE:
+https://fa826.github.io/TRAVELLING-PAGE/
+
 # TRAVELLING-PAGE
 I am creating a dream website for all the Hodophiles!!
 
